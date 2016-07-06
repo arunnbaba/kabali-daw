@@ -1,0 +1,17 @@
+Kabali is a pseudo code created on the top of php:
+you will need php engine to run this.
+since php is a server side scripting you have to use one of the servers below:
+wamp
+xamp
+iis 
+
+and upload the above files
+in the www ot htdocs directories within a new folder.
+now initially a sample kabali program is given named -----nl.kabali----.
+if u try to open that folder index.php will run and ask for the file to execute
+to execute sample program enter nl.kabali in that textbox.
+After craeting your new program upload in that same folder and enter your file name instead
+with.kabali extension.
+
+
+k guyzzz njoy 

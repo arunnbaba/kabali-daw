@@ -1,0 +1,34 @@
+// This is written in pseudo language 
+
+COOL Foo{ //CLASS DECLARATION
+  BOSS bar() {  //FUNCTION DECLARATION
+    ROBO "ya";  //RETURNING VALUE IN FUNCTION
+  }
+}
+
+#f=Foo.new();  //OBJECT INITIALIZATION
+DOT #f.bar();   //PRINTING STATEMENT
+
+#realTrue = true;
+#arunn = "ar"; //VARIABLE DECLARATION AND INITIALIZATION
+
+DOT "<br>";
+#a = 5;  //VARIABLE DECLARATION AND INITIALIZATION
+
+
+NERUPUDA(#a>10)   //IF STATEMENT
+  { DOT "100";}
+NERUNGUDA             //ELSE STATEMENT
+  { DOT "10";}
+
+
+  
+  #g=10;
+  MAZILCHI(#g>5)          //WHILE STATEMENT
+  {
+  DOT "boss";
+  DOT "<br>";
+  #g--;
+  }
+ 
+  
